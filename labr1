@@ -1,0 +1,5 @@
+git remote add origin git@github.com:bezrodnovart03/bzrd.git
+git branch -M main
+git push -u origin main
+git pull
+git add
