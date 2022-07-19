@@ -3,6 +3,6 @@
   <head>
  <<p align="center"> Безроднов Артем Алексеевич </p>
    группа: Б9121-09.03.02 </p>
-<a href="about.html"> </a>
-<a href="img.html"></a>>
+<a href="infa.html"> </a>
+<a href="image.html"></a>>
   </head>
