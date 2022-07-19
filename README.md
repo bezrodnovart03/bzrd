@@ -4,5 +4,5 @@
 <p align="center"> |группа: Б9121-09.03.02| </p>
 </head>
   <body>
-  [!image.html](image)
+ <img src="image.html" width="50%" height="50%" alt="ДВФУ"
     </body>
