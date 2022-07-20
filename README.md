@@ -1,8 +1,6 @@
 # bzrd
 <html lang="ru">
   <head>
-  <meta charset="UTF-8">
-  <title> Лабораторная работа №1 </title>
     <style>
         div{
             text-align: center       
