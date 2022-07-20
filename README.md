@@ -5,17 +5,8 @@
   <title> Лабораторная работа №1 </title>
     <style>
         div{
-            display: inline-block;
-            margin-left: 40%; 
-            margin-right: 40%;
-            border-radius: 10px;
-            border: 5px #ccc solid;
-            box-shadow: 0 0 7px #666;
-            padding: 10px;
-            
-            text-align: center
-            
-        }
+            text-align: center       
+           }
     </style>
 </head>
  <body>
