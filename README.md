@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 # bzrd
 <html>
  <body>
