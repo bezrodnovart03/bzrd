@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 # bzrd
 <html lang="ru">
  <body>
